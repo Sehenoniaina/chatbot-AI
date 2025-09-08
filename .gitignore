@@ -1,2 +1,8 @@
 
 .venv/
+
+.streamlit/secrets.toml
+
+app.py
+
+.env
